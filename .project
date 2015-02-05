@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SpinTheWheel</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>$%7BPARENT-2-PROJECT_LOC%7D/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT1</name>
+			<value>$%7Bcopy_PARENT%7D/RMIT/COSC2401%20-%20SADI/assignments/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT11</name>
+			<value>$%7Bcopy_PARENT1%7D/RMIT/COSC2401%20-%20SADI/assignments/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT112</name>
+			<value>$%7Bcopy_PARENT1%7D/RMIT/COSC2401%20-%20SADI/assignments/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT1123</name>
+			<value>$%7Bcopy_PARENT1%7D/RMIT/COSC2401%20-%20SADI/assignments/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT11234</name>
+			<value>$%7Bcopy_PARENT1%7D/RMIT/COSC2401%20-%20SADI/assignments/Dropbox</value>
+		</variable>
+		<variable>
+			<name>copy_PARENT12</name>
+			<value>$%7BPARENT-4-ECLIPSE_HOME%7D</value>
+		</variable>
+	</variableList>
+</projectDescription>
